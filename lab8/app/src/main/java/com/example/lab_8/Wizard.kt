@@ -1,6 +1,6 @@
 package com.example.lab_8
 
-// PENIS
+// PENIS TEST2
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
     fun castSpell(spell: String): Int {
         when (spell) {
